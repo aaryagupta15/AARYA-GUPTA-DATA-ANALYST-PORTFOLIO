@@ -7,7 +7,7 @@ Throughout my academic and professional journey, I have worked on various **data
 
 This repository showcases my **projects, skills, and progress** in Data Analytics and Data Science.
 
----
+[My Resume in pdf](https://drive.google.com/file/d/1qwTSKs1h4KPIpkS6wWM9TXdWo8tVBZUv/view?usp=sharing)
 
 ## Table of Contents
 1. About
@@ -96,6 +96,7 @@ This repository showcases my **projects, skills, and progress** in Data Analytic
 ---
 
 ## Certifications
+The most effective way to showcase skills is through hands-on work and sharing the completed projects. However, certificates can sometimes be seen as an indirect result of this effort. Below is a list of the certificates I have earned:
 - [View Certifications](https://drive.google.com/drive/folders/1qctJu_tEd8aSKAFW6EqlPg7Cpy91zFzR?usp=sharing)
 - **Dataiku - Core Designer, ML Practitioner, Advanced Designer, Developer, MLOps**
 - **TCS Data Management**
