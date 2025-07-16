@@ -7,7 +7,7 @@ Throughout my academic and professional journey, I have worked on various **data
 
 This repository showcases my **projects, skills, and progress** in Data Analytics and Data Science.
 
-[My Resume in pdf](https://drive.google.com/file/d/1qwTSKs1h4KPIpkS6wWM9TXdWo8tVBZUv/view?usp=sharing)
+[My Resume in pdf](https://drive.google.com/file/d/1r19t-bT2bxbvh2enwa9JlUKzUYKxNnnx/view?usp=sharing)
 
 ## Table of Contents
 1. About
